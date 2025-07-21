@@ -1,0 +1,6 @@
+hello 0 8
+xin chao 8 5
+love 13 3
+yeu 16 4
+khoa 20 16
+mot thang oc cho 36 4
